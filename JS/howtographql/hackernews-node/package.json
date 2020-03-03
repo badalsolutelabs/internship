@@ -1,0 +1,19 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "description": "howtographql tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "badalsolutelabs",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "graphql-yoga": "^1.18.3",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.2",
+    "prisma-cli": "^1.0.9",
+    "prisma-client-lib": "^1.34.10"
+  }
+}
